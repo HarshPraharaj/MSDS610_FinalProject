@@ -87,7 +87,7 @@ Note that unlike the nested loops and merge joins which immediately begin flowin
 ## Triangular Arbitrage
 
 ### How to Use this Project
-Arbitrage is the process of buying low in one and selling high in another. Triangular Arbitrage involves extending this to three markets. ``` Arbitrage.ipynb``` identifies triangular arbitrage opportunities in the currency exchange ("forex") market and calculates the top "n" profitable opportunities given a date, an amount of starting funds, and the number of opportunities desired to be returned (n). The primary function in the file takes these inputs as follows.
+Arbitrage is the process of buying low in one market and selling high in another. Triangular Arbitrage involves extending this two market event to three markets. ``` Arbitrage.ipynb``` identifies triangular arbitrage opportunities in the currency exchange ("forex") market and calculates the top "n" profitable opportunities given a date, an amount of starting funds, and the number of opportunities desired to be returned (n). The primary function in the file takes these inputs as follows.
 
 ``` TopN_Arbitrage(date, starting_funds, N)```
 
