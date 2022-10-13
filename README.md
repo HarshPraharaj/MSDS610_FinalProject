@@ -109,7 +109,7 @@ pip install pandas
 pip install numpy
 ```
 
-For more details on installation see the pandas and numpy installation page.
+For more details on installation see the pandas and numpy installation pages.
 
 - https://pandas.pydata.org/docs/getting_started/install.html
 - https://numpy.org/install/
