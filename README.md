@@ -99,10 +99,14 @@ This project requires a Python 3+ installation and following packages. The code 
 - pandas
 - numpy
  
-To ensure this code runs properly make sure the pandas package is installed
+To ensure this code runs properly make sure the pandas and numpy packages are installed.
 
-```pip install pandas
-   pip install numpy
+```
+pip install pandas
+```
+
+```
+pip install numpy
 ```
 
 For more details on installation see the pandas and numpy installation page.
