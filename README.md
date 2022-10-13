@@ -127,5 +127,5 @@ This project was an equal partnership between Harsh Praharaj and Adam Ansari as 
 - Adam Ansari https://github.com/Adam-Ansari-USF
 
 The following websites were used as references:
-- Dataset: https://fiscaldata.treasury.gov/datasets/treasury-reporting-rates-exchange/treasury-reporting-rates-of-exchange
-- Triangular Arbitrage Definitions: https://penpoin.com/triangular-arbitration/
+- Dataset https://fiscaldata.treasury.gov/datasets/treasury-reporting-rates-exchange/treasury-reporting-rates-of-exchange
+- Triangular Arbitrage Definitions https://penpoin.com/triangular-arbitration/
