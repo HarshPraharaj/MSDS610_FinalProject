@@ -6,7 +6,7 @@
 
 - Overview
 - Why do we need Joins? (The problems with Unnormalized tables)
-- Different types of Relational Joins
+- Relational Joins under the hood
 - Triangular Arbitrage
 
 ## Overview
